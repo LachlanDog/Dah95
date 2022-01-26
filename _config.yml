@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: https://LachlanDog.github.io
-baseurl: /Dah95
+url: https://lachlandog.github.io
+baseurl: /dah95
 
 # variables
 name: Your Site Name
